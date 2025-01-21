@@ -309,7 +309,7 @@ Adaptado para Radio Zeno - 2023 - by Angel System
           : !1;
       b &&
         d("#" + c + "backgroundimage").css({
-          "background-image": "url('../images/bg.png')",
+          "background-image": "url('../images/Vozdelaverdad.jpg')",
           display: "none",
         });
       jb();
@@ -1066,7 +1066,7 @@ Adaptado para Radio Zeno - 2023 - by Angel System
       a.id = c + "backgroundimage";
       b.appendChild(a);
       d("#" + c + "backgroundimage").css({
-        background: "url('../images/bg.png')",
+        background: "url('../images/Vozdelaverdad.jpg')",
         position: "absolute",
         left: "-5%",
         top: "-5%",
@@ -1081,7 +1081,7 @@ Adaptado para Radio Zeno - 2023 - by Angel System
       a.appendChild(b);
       d("#" + c + "backgroundimage1").css({
         position: "absolute",
-        background:"url('../images/bg.png')",
+        background:"url('../images/Vozdelaverdad.jpg')",
         left: "0px",
         top: "0px",
         height: "100%",
